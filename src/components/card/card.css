@@ -1,0 +1,23 @@
+
+.col s12{
+    width: 100%;
+}
+
+.card{
+    width: 12rem;
+    min-height: 15rem;
+    height: 18rem;
+    
+}
+
+.card img.circle{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+.card-content{
+    margin: 0;
+    padding: 10px;
+}
+
+    
